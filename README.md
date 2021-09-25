@@ -6,3 +6,6 @@ This is a repository to gain familiarity with git and Github.
 * git add
 * git commit -m
 * git push
+* git checkout -b
+* git branch
+* git status
